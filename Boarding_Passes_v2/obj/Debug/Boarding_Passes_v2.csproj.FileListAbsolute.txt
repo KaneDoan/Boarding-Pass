@@ -1,0 +1,7 @@
+E:\Study material\IF_501-Programing fundamenal\Boarding_Passes_v2\Boarding_Passes_v2\bin\Debug\Boarding_Passes_v2.exe.config
+E:\Study material\IF_501-Programing fundamenal\Boarding_Passes_v2\Boarding_Passes_v2\bin\Debug\Boarding_Passes_v2.exe
+E:\Study material\IF_501-Programing fundamenal\Boarding_Passes_v2\Boarding_Passes_v2\bin\Debug\Boarding_Passes_v2.pdb
+E:\Study material\IF_501-Programing fundamenal\Boarding_Passes_v2\Boarding_Passes_v2\obj\Debug\Boarding_Passes_v2.csprojAssemblyReference.cache
+E:\Study material\IF_501-Programing fundamenal\Boarding_Passes_v2\Boarding_Passes_v2\obj\Debug\Boarding_Passes_v2.csproj.CoreCompileInputs.cache
+E:\Study material\IF_501-Programing fundamenal\Boarding_Passes_v2\Boarding_Passes_v2\obj\Debug\Boarding_Passes_v2.exe
+E:\Study material\IF_501-Programing fundamenal\Boarding_Passes_v2\Boarding_Passes_v2\obj\Debug\Boarding_Passes_v2.pdb
